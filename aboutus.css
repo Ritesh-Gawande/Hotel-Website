@@ -1,0 +1,10 @@
+body{
+   background-color: aqua;
+}
+
+h3{
+    bottom: 50%;
+}
+marquee{
+     -o-animation-timing-function: cubic-bezier();
+}
