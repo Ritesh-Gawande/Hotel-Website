@@ -1,0 +1,46 @@
+/* * {
+    box-sizing: border-box;
+  } */
+  
+  body {
+    margin: 0;
+    font-family: Arial;
+    font-size: 17px;
+    background-image: url("bag3.jpg");
+  }
+  
+  #myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+  }
+  /* .content {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+  } */
+
+
+/* a{
+    padding: 30px;
+    text-emphasis-color:rgb(233, 3, 3);
+    color: black;
+} */
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
+  
